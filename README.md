@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some elementry projects in data science
 - 📫 How to reach me... 
-- instagram:@tinabarghi
+- instagram:@tinavocal
+- LinkedIn: @tibanab
 
 <!---
 tibanab/tibanab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
