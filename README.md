@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some elementry projects in data science
 - 📫 How to reach me... 
-- instagram:@tinavocal
 - LinkedIn: @tibanab
 
 <!---
