@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tibanab
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on some elementry projects in data science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me... 
      LinkedIn: @tibanab
 
